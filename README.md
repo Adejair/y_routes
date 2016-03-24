@@ -25,7 +25,7 @@ OnFinish:
 
 Issues
 ----------
-#1 - GetString Issue
+[GetString Issue](https://github.com/Adejair/y_routes/issues/1)
 
 ----------
 Go to Code !!!
